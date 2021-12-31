@@ -5,7 +5,7 @@
 
 Simple Card UI using Tailwind CSS
 
-<img src="https://imgur.com/a/6oJT6LM">
+<img src="https://i.imgur.com/27aDEt2.png">
 
 ## License
 
